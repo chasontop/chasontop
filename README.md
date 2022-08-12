@@ -1,6 +1,7 @@
 <h1 align="center">hey im chas!</h1>
 <h3 align="center">a young dev/programmer from the us</h3>
 <img align="right" alt="pfp" width="400" height="300"src="https://cdn.discordapp.com/attachments/1001498963591045120/1007696848116535488/dog.jpg">
+-
 - 🔭 I’m currently working on **a secret.**
 
 - 🌱 I’m currently learning **discord.js.**
