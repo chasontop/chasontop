@@ -1,6 +1,8 @@
 <h1 align="center">hey im chas!</h1>
 <h3 align="center">a young dev/programmer from the us</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chasontop&label=Profile%20views&color=0e75b6&style=flat" alt="chasontop" /> </p>
+
 - 🔭 I’m currently working on **a secret.**
 
 - 🌱 I’m currently learning **discord.js.**
@@ -9,8 +11,15 @@
 
 - 🤝 I’m looking for help with **discord.js.**
 
+- 💬 Ask me about **any of my projects!**
+
+- 📫 How to reach me **chas#4297**
+
+- ⚡ Fun fact **i wrote 3600 chars of brain f*ck for discord but cant send it because of char limit.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/chas#4297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chas#4297" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
