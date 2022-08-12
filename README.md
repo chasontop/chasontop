@@ -1,6 +1,6 @@
 <h1 align="center">hey im chas!</h1>
 <h3 align="center">a young dev/programmer from the us</h3>
-<img align="right" alt="pfp" width="400" height="300"src="https://cdn.discordapp.com/attachments/1001498963591045120/1007696848116535488/dog.jpg">
+
 - 🔭 I’m currently working on **a secret.**
 
 - 🌱 I’m currently learning **discord.js.**
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasontop&show_icons=true&theme=dark&locale=en&layout=compact" alt="chasontop" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chasontop&show_icons=true&locale=en" alt="chasontop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chasontop&show_icons=true&theme=dark&locale=en" alt="chasontop" /></p>
